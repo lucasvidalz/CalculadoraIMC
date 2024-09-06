@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CalculadoraDeIMCCompose" parent="android:Theme.Material.Light.NoActionBar" >
+        <!-- Cor da Status Bar -->
+        <item name="android:statusBarColor">@color/dark_blue</item>
+    </style>
+</resources>
